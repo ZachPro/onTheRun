@@ -1,4 +1,4 @@
-onTheRun
+OnTheRun
 ========
 
-A New Mod
+To Set up put the onTheRun.jar in your Plugins folder.
